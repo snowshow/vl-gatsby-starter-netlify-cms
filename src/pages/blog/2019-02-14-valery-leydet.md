@@ -16,9 +16,9 @@ description: >
 tags:
   - test kuku
 ---
+![ededed](/img/products-grid2.jpg "image sample")
+
 We see you’ve started using Identity on inspiring-joliot-99ad36, so we got you started on the Identity Free plan, which includes:
-
-
 
 > Have up to 1000 users log in to your site per month, with open registration
 >
