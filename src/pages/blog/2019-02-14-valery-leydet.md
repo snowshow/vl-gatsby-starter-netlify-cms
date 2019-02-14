@@ -14,8 +14,7 @@ description: >
   Enable external OAuth providers for user login, using Netlify's built-in
   integration
 tags:
-  - test
-  - kuku
+  - beta
 ---
 ![ededed](/img/products-grid2.jpg "image sample")
 
