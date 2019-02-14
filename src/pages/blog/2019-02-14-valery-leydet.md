@@ -14,7 +14,7 @@ description: >
   Enable external OAuth providers for user login, using Netlify's built-in
   integration
 tags:
-  - ''
+  - test kuku
 ---
 We see you’ve started using Identity on inspiring-joliot-99ad36, so we got you started on the Identity Free plan, which includes:
 
